@@ -2,7 +2,7 @@
 
 First we were greeted with the challenge to reverse enginner a apk a find the secret
 
-![problem](assets/problem.png)
+![problem](assets/prob.jpeg)
 
 After installing this apk in a android device, we were greeted with a login screen asking for a username and password
 
