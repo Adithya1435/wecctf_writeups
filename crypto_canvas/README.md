@@ -5,8 +5,7 @@
 A JPG file was provided as part of the challenge. The file appeared to be a JPG file according to the outputs of the `file` command and examining it with `ghex`. However, no flag was found in the hexadecimal view.
 
 - `file` output: ![file output](assets/file.png)
-- `ghex` output:
- ![ghex](assets/ghex.png)
+- `ghex` output: ![ghex](assets/ghex.png)
 
 ## Initial Attempts
 1. **Exiftool**: Attempted to extract hidden information from metadata using `exiftool`, but found nothing significant.
