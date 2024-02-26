@@ -2,7 +2,7 @@
 
 First we were greeted with the challenge to reverse enginner a apk a find the secret
 
-![problem](assets/problem.jpeg)
+![problem](assets/problem.png)
 
 After installing this apk in a android device, we were greeted with a login screen asking for a username and password
 
@@ -22,7 +22,7 @@ After analysing this class I noticed that password is hashed using MD5 and conve
 
 I used apktools to extract the files from the apk and opened string.xml file and we get to know that username is `melodi` (xD)
 
-![strings_xml](assets/strings_xml)
+![strings_xml](assets/strings_xml.png)
 
 Remember that when we opened the app we were greeted with a login screen that had instagram profile of wecnik? So when i searched for wecnitk profile posts and comments I found a linkedin profile of nitkcatrina which had a mention to arfath11
 
